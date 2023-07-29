@@ -7,6 +7,5 @@ raw_data/
 **/__pycache__/
 .env
 .envrc
-.env
 .env.yaml
 .gcloudignore
