@@ -7,3 +7,4 @@ matplotlib
 # api
 requests
 fastapi
+uvicorn
