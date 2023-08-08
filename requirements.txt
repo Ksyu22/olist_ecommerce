@@ -4,6 +4,7 @@ pandas
 scikit-learn
 matplotlib
 plotly
+folium
 
 # api
 requests
